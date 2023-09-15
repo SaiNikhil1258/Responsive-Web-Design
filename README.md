@@ -17,9 +17,9 @@ Here, you'll find the solutions for the projects required to earn your Responsiv
 
 1. **Tribute Page**: Create a tribute page to honor someone you admire.
 2. **Survey Form**: Design a responsive survey form with various input fields.
-3. **Product Landing Page**: Build a product landing page for a fictional product.
-4. **Technical Documentation Page**: Create a technical documentation page for a topic of your choice.
-5. **Personal Portfolio Webpage**: Develop a portfolio website to showcase your skills and projects.
+3. **Product Landing Page**: Build a product landing page for a fictional product.(work in progress)
+4. **Technical Documentation Page**: Create a technical documentation page for a topic of your choice.(work in progress)
+5. **Personal Portfolio Webpage**: Develop a portfolio website to showcase your skills and projects.(work in progress)
 
 
 ## How to Use
