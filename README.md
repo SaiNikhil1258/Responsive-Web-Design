@@ -8,8 +8,9 @@ Responsive web design is interactive course on FreeCodeCamp.org this my solution
 Welcome to the FreeCodeCamp Responsive Web Design Projects repository! 🚀
 
 Here, you'll find the solutions for the projects required to earn your Responsive Web Design certificate on FreeCodeCamp. These projects are designed to help you master the fundamentals of HTML, CSS, and responsive web design.
-This is my certification:
 
+
+## My Certificate
 
 
 ![Screenshot (32)](https://github.com/SaiNikhil1258/Responsive-Web-Design/assets/111006116/f09ec714-4fd6-44ad-b0e4-4d231b33d71d)
